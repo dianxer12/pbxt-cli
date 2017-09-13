@@ -1,0 +1,43 @@
+{
+  "_from": "pbxt-cli",
+  "_id": "pbxt-cli@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-0r7Y1Nxi3K1SE/3YfIM4IQit0vE=",
+  "_location": "/pbxt-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pbxt-cli",
+    "name": "pbxt-cli",
+    "escapedName": "pbxt-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pbxt-cli/-/pbxt-cli-1.0.3.tgz",
+  "_shasum": "d2bed8d4dc62dcad5213fdd87c83382108add2f1",
+  "_spec": "pbxt-cli",
+  "_where": "C:\\Projects\\NODEJS\\npm\\v1",
+  "author": "",
+  "bin": {
+    "pb": "./bin/pbcli.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "directories": {
+    "lib": "./lib"
+  },
+  "license": "ISC",
+  "main": "main.js",
+  "name": "pbxt-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
