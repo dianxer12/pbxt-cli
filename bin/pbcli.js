@@ -1,4 +1,7 @@
 #!/usr/bin/env node
 
 'use strict';
-require('../lib/pbxt')();
+
+import main from '../lib/pbxt'
+
+main();
