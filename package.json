@@ -10,8 +10,8 @@
   "license": "ISC",
   "name": "pbxt-cli",
   "scripts": {
-    "start": "node ./build/server.js",
-    "watch": "cross-env CLIENT_VERSION=v1.0.0 babel src --out-dir build --watch"
+    "start": "cross-env CLIENT_VERSION=v1.0.0 node ./build/server.js",
+    "watch": "babel src --out-dir build --watch"
   },
   "babel": {
     "presets": [
